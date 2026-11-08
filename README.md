@@ -27,15 +27,6 @@ I am a Software Engineer with a Master's degree in Computer Science, specialized
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - **Email:** mohammadalzeiter@outlook.com
