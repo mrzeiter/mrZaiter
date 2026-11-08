@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad AL-Zaiter 👋
+# Hi there, I'm Mohammad AL-Zeiter 👋
 
 🎓 **M.Sc. in Computer Science** | 💻 **ASP.NET Core Specialist**
 
@@ -38,7 +38,7 @@ I am a Software Engineer with a Master's degree in Computer Science, specialized
 
 ## 📫 Connect with Me
 
-- **Email:** mohammadalzaiter@outlook.com
+- **Email:** mohammadalzeiter@outlook.com
 
 -- -
 *⚡️ "Writing clean, maintainable, and scalable code is my passion."*
